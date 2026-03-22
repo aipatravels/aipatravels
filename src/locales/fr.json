@@ -1,0 +1,64 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "itineraries": "Itinéraires",
+    "destinations": "Destinations",
+    "activities": "Activités",
+    "tailorMade": "Sur mesure",
+    "aboutUs": "À propos",
+    "planTrip": "Planifiez votre voyage",
+    "chatWithUs": "Discutez avec nous"
+  },
+  "homePage": {
+    "title": "Votre compagnon de voyage AIPA",
+    "welcome": "Bienvenue sur AIPA - Votre compagnon de voyage AIPA",
+    "description": "Découvrez des itinéraires de voyage personnalisés, explorez les meilleures destinations et planifiez votre voyage parfait avec AIPA. Commencez votre aventure dès aujourd'hui !",
+    "middleBannerTitle": "Experts en voyage de confiance",
+    "middleBannerDescription": "Chez AIPA, nous croyons que des relations solides améliorent notre capacité à mieux vous servir. Nous sommes fiers d'être membres de la Sri Lanka Association of Inbound Tour Operators (SLAITO) et de détenir des accréditations d'autorités reconnues de l'industrie du voyage, garantissant que chaque voyage que vous faites avec nous est fiable, professionnel et inoubliable."
+  },
+  "hero": {
+    "nineArch": {
+      "title": "Dans les collines",
+      "subtitle": "Voyages en train panoramiques",
+      "description": "Découvrez le célèbre pont des Neuf Arches entouré d'une végétation luxuriante."
+    },
+    "galle": {
+      "title": "Charme colonial",
+      "subtitle": "Voyage à travers l’histoire",
+      "description": "Découvrez la beauté intemporelle du fort de Galle et son héritage côtier."
+    },
+    "sigiriya": {
+      "title": "Merveilles anciennes",
+      "subtitle": "Gravissez le Rocher du Lion",
+      "description": "Explorez la majestueuse forteresse de Sigiriya et ses secrets anciens."
+    },
+    "bentota": {
+      "title": "Luxe réinventé",
+      "subtitle": "Là où la nature rencontre l’élégance",
+      "description": "Détendez-vous sur des plages dorées et découvrez la sérénité de Bentota."
+    },
+    "tea": {
+      "title": "Pays du thé",
+      "subtitle": "Fraîcheur des collines",
+      "description": "Promenez-vous dans les plantations de thé luxuriantes du Sri Lanka et profitez de son climat frais."
+    }
+  },
+  "aboutUs": {
+    "title": "À propos de AIPA",
+    "shortDescription": "AIPA est une agence de voyage de premier plan au Sri Lanka, dédiée à offrir des expériences de voyage exceptionnelles. Notre objectif est de mettre en valeur les trésors cachés du Sri Lanka, en connectant les voyageurs avec la beauté authentique, la culture et les expériences uniques que cette île a à offrir.\n\nNous nous engageons à fournir des services précieux à nos clients en combinant notre expertise, nos conseils personnalisés et notre passion pour le voyage. Chez AIPA, chaque voyage est conçu pour être mémorable, fluide et vraiment spécial.",
+    "services": ["Moins de travail administratif", "Plus d’impact", "Expérience client améliorée"],
+    "leftService": "Devis et mise à jour des voyages en quelques minutes",
+    "rightService": "Créez des voyages que vos clients n'oublieront jamais",
+    "leftImageAlt": "Safari du Lion",
+    "centerImageAlt": "Itinéraire vidéo de marque",
+    "rightImageAlt": "Coucher de soleil dans un lodge de luxe"
+  },
+  "other": {
+    "loading": "Chargement...",
+    "noResults": "Aucun résultat trouvé.",
+    "error": "Une erreur s'est produite. Veuillez réessayer.",
+    "searchPlaceholder": "Recherchez des destinations, des activités et plus encore...",
+    "whoWeAre": "Qui sommes-nous",
+    "ourMission": "Notre mission"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "nav": {
+    "home": "Home",
+    "itineraries": "Itineraries",
+    "destinations": "Destinations",
+    "activities": "Activities",
+    "tailorMade": "Tailor-Made",
+    "aboutUs": "About Us",
+    "planTrip": "Plan Your Trip",
+    "chatWithUs": "Chat with Us"
+  },
+  "homePage": {
+    "title": "Your AIPA Travel Companion",
+    "welcome": "Welcome to AIPA - Your AIPA Travel Companion",
+    "description": "Discover personalized travel itineraries, explore top destinations, and plan your perfect trip with AIPA. Start your adventure today!",
+    "middleBannerTitle": "Trusted Travel Experts",
+    "middleBannerDescription": "At AIPA, we believe strong relationships enhance our ability to serve you better. We are proud members of the Sri Lanka Association of Inbound Tour Operators (SLAITO) and hold accreditations from recognized travel industry authorities, ensuring that every journey you take with us is reliable, professional, and unforgettable."
+  },
+  "hero": {
+    "nineArch": {
+      "title": "Into the Hills",
+      "subtitle": "Scenic train journeys",
+      "description": "Experience the iconic Nine Arch Bridge surrounded by lush greenery."
+    },
+    "galle": {
+      "title": "Colonial Charm",
+      "subtitle": "Walk through history",
+      "description": "Discover the timeless beauty of Galle Fort and coastal heritage."
+    },
+    "sigiriya": {
+      "title": "Ancient Wonders",
+      "subtitle": "Climb the Lion Rock",
+      "description": "Explore the majestic Sigiriya fortress and its ancient secrets."
+    },
+    "bentota": {
+      "title": "Luxury Redefined",
+      "subtitle": "Where nature meets elegance",
+      "description": "Relax on golden beaches and experience the serenity of Bentota."
+    },
+    "tea": {
+      "title": "Tea Country",
+      "subtitle": "Fresh from the hills",
+      "description": "Walk through Sri Lanka’s lush tea plantations and cool climates."
+    }
+  },
+  "aboutUs": {
+    "title": "About AIPA",
+    "shortDescription": "AIPA is a premier travel agency in Sri Lanka, dedicated to providing exceptional travel experiences. Our purpose is to showcase the hidden gems of Sri Lanka, connecting travelers with the authentic beauty, culture, and unique experiences this island has to offer.\n\nWe are committed to delivering valuable services to our customers by combining our expertise, personalized guidance, and passion for travel. At AIPA, every journey is crafted to be memorable, seamless, and truly special.",
+    "services": ["Less busywork", "More impact", "Elevated client experience"],
+    "leftService": "Quote and update trips in minutes",
+    "rightService": "Create journeys that your clients will never forget",
+    "leftImageAlt": "Lion Safari",
+    "centerImageAlt": "Branded video itinerary",
+    "rightImageAlt": "Luxury lodge sunset"
+  },
+  "other": {
+    "loading": "Loading...",
+    "noResults": "No results found.",
+    "error": "An error occurred. Please try again.",
+    "searchPlaceholder": "Search for destinations, activities, and more...",
+    "whoWeAre": "Who We Are",
+    "ourMission": "Our Mission"
+  }
+}
